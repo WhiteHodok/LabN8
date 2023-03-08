@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-// Где-то в углу повешалась пара питонистов (np.arrange[] передаёт привет)
+// Р“РґРµ-С‚Рѕ РІ СѓРіР»Сѓ РїРѕРІРµС€Р°Р»Р°СЃСЊ РїР°СЂР° РїРёС‚РѕРЅРёСЃС‚РѕРІ (np.arrange[] РїРµСЂРµРґР°С‘С‚ РїСЂРёРІРµС‚)
 void fillArray(int* arr, int size, int value) {
     for (int i = 0; i < size; i++) {
         arr[i] = value;
