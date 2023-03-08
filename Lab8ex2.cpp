@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-// Любимый пример Джоэла Грасса, в его книгах по Python и Machine Learning
+// Р›СЋР±РёРјС‹Р№ РїСЂРёРјРµСЂ Р”Р¶РѕСЌР»Р° Р“СЂР°СЃСЃР°, РІ РµРіРѕ РєРЅРёРіР°С… РїРѕ Python Рё Machine Learning
 void multiply(int& a, int& b) {
     a *= b;
 }
